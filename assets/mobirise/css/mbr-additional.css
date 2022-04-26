@@ -1391,7 +1391,7 @@ body {
   z-index: auto;
 }
 .cid-rvDgSjEFuo {
-  background-image: url("../../../assets/images/banner-medium-home-2-1920x9601.jpg");
+  background-image: url("../../../assets/images/top-revenda-autorizada-honda-pront-loc-2000x1110.png");
 }
 .cid-rvDgSjEFuo .card-wrapper {
   z-index: 3;
@@ -1418,82 +1418,72 @@ body {
 .cid-rvDgSjEFuo .text-block {
   text-align: right !important;
 }
-.cid-rvDUq022n7 {
-  padding-top: 0px;
+.cid-t3Zf2nVXnM {
+  padding-top: 45px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/bg-gx-390-1440x8252.png");
+  background-color: #ffffff;
 }
-.cid-rvDUq022n7 .main {
-  -webkit-flex-direction: row-reverse;
-  flex-direction: row-reverse;
+.cid-t3Zf2nVXnM .container-fluid {
+  padding: 0 3rem;
 }
-.cid-rvDUq022n7 .row-element,
-.cid-rvDUq022n7 .image-element {
-  padding: 0;
+.cid-t3Zf2nVXnM .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #66458e, #e11428);
+  display: inline-block;
 }
-.cid-rvDUq022n7 .image-element {
+.cid-t3Zf2nVXnM .card {
   display: flex;
+  position: relative;
   -webkit-justify-content: center;
   justify-content: center;
 }
-.cid-rvDUq022n7 .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
+.cid-t3Zf2nVXnM .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
 }
-.cid-rvDUq022n7 .text-content {
-  padding: 3rem;
+.cid-t3Zf2nVXnM .card .card-wrapper {
+  height: 1%;
 }
-.cid-rvDUq022n7 .mbr-section-subtitle {
-  color: #ffffff;
+.cid-t3Zf2nVXnM .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
 }
-@media (max-width: 767px) {
-  .cid-rvDUq022n7 .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-rvDUq022n7 .mbr-title,
-  .cid-rvDUq022n7 .underline,
-  .cid-rvDUq022n7 .mbr-text,
-  .cid-rvDUq022n7 .mbr-section-btn {
-    text-align: center !important;
-  }
+.cid-t3Zf2nVXnM .card .card-wrapper .card-img img {
+  transition: all .5s;
 }
-.cid-rvDUq022n7 .mbr-title {
-  color: #ffffff;
+.cid-t3Zf2nVXnM .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #146dff;
 }
-.cid-rvDUq022n7 .mbr-text,
-.cid-rvDUq022n7 .mbr-section-btn {
-  color: #ffffff;
+.cid-t3Zf2nVXnM .card .card-wrapper .card-img .img-text span {
+  display: block;
 }
-.cid-rm8s8zVMto {
-  overflow: hidden !important;
-  background-image: url("../../../assets/images/gxr-120-bg-1920x10294.jpg");
-}
-.cid-rm8s8zVMto .animated-element {
-  color: #efefef;
-}
-.cid-rm8s8zVMto .img-block {
-  -webkit-align-self: center;
-  align-self: center;
-}
-.cid-rm8s8zVMto .mbr-section-subtitle {
-  color: #efefef;
-}
-@media (min-width: 992px) {
-  .cid-rm8s8zVMto .img-block {
-    padding-right: 2rem;
-  }
+.cid-t3Zf2nVXnM .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
 }
 @media (max-width: 767px) {
-  .cid-rm8s8zVMto .mbr-figure {
-    margin-top: 1rem;
+  .cid-t3Zf2nVXnM .container-fluid {
+    padding: 0 1rem;
   }
 }
-@media (max-width: 768px) {
-  .cid-rm8s8zVMto .img-block {
-    padding-bottom: 2rem;
-  }
+.cid-t3Zf2nVXnM .img-text {
+  color: #ffffff;
+}
+.cid-t3Zfj4rFX9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-r61sXTPud6 {
   background-color: #4289a7;
@@ -1594,6 +1584,14 @@ body {
 .cid-r61sXTPud6 .form-text,
 .cid-r61sXTPud6 .input-group-btn {
   color: #000000;
+}
+.cid-t497MhzdeN {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-t497MhzdeN .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-r6eIuv0YY3 .play {
   width: 0;
