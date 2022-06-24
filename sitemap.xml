@@ -3,9 +3,6 @@
 		<loc>https://prontloc.com.br/index.html</loc>
 	</url>
 	<url>
-		<loc>https://prontloc.com.br/senador-canedo.html</loc>
-	</url>
-	<url>
 		<loc>https://prontloc.com.br/goiania.html</loc>
 	</url>
 	<url>
@@ -19,5 +16,11 @@
 	</url>
 	<url>
 		<loc>https://prontloc.com.br/privacidade.html</loc>
+	</url>
+	<url>
+		<loc>https://prontloc.com.br/Cadastro.html</loc>
+	</url>
+	<url>
+		<loc>https://prontloc.com.br/senador-canedo.html</loc>
 	</url>
 </urlset>
