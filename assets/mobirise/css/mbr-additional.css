@@ -190,22 +190,22 @@ body {
 .btn-secondary,
 .btn-secondary:active,
 .btn-secondary.active {
-  background-color: #e11428 !important;
-  border-color: #e11428 !important;
+  background-color: #fa0707 !important;
+  border-color: #fa0707 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
 .btn-secondary.focus {
   color: #ffffff !important;
-  background-color: #9b0e1c !important;
-  border-color: #9b0e1c !important;
+  background-color: #b10404 !important;
+  border-color: #b10404 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #9b0e1c !important;
-  border-color: #9b0e1c !important;
+  background-color: #b10404 !important;
+  border-color: #b10404 !important;
 }
 .btn-info,
 .btn-info:active,
@@ -365,21 +365,21 @@ body {
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   background: none;
-  border-color: #830c17;
-  color: #830c17 !important;
+  border-color: #980303;
+  color: #980303 !important;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus {
   color: #ffffff !important;
-  background-color: #e11428;
-  border-color: #e11428;
+  background-color: #fa0707;
+  border-color: #fa0707;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #e11428 !important;
-  border-color: #e11428 !important;
+  background-color: #fa0707 !important;
+  border-color: #fa0707 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active,
@@ -499,7 +499,7 @@ body {
   color: #66458e !important;
 }
 .text-secondary {
-  color: #e11428 !important;
+  color: #fa0707 !important;
 }
 .text-success {
   color: #146dff !important;
@@ -525,7 +525,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #830c17 !important;
+  color: #980303 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1390,6 +1390,77 @@ body {
 .cid-rvWfCbcA0O .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-tcOGDQKPIc {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-tcOGDQKPIc .container-fluid {
+  padding: 0 3rem;
+}
+.cid-tcOGDQKPIc .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #66458e, #fa0707);
+  display: inline-block;
+}
+.cid-tcOGDQKPIc .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-tcOGDQKPIc .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
+}
+.cid-tcOGDQKPIc .card .card-wrapper {
+  height: 1%;
+}
+.cid-tcOGDQKPIc .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
+}
+.cid-tcOGDQKPIc .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-tcOGDQKPIc .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #146dff;
+}
+.cid-tcOGDQKPIc .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-tcOGDQKPIc .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
+}
+@media (max-width: 767px) {
+  .cid-tcOGDQKPIc .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-tcOGDQKPIc .img-text {
+  color: #ffffff;
+}
+.cid-tcOGDQKPIc .mbr-section-title,
+.cid-tcOGDQKPIc .underline {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tcOGDQKPIc .mbr-card-text,
+.cid-tcOGDQKPIc .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rvDgSjEFuo {
   background-image: url("../../../assets/images/top-revenda-autorizada-honda-pront-loc-2000x1110.png");
 }
@@ -1429,7 +1500,7 @@ body {
 .cid-t9GdDPh0LX .underline .line {
   width: 5rem;
   height: 3px;
-  background: linear-gradient(90deg, #66458e, #e11428);
+  background: linear-gradient(90deg, #66458e, #fa0707);
   display: inline-block;
 }
 .cid-t9GdDPh0LX .card {
@@ -1500,7 +1571,7 @@ body {
 .cid-t3Zf2nVXnM .underline .line {
   width: 5rem;
   height: 3px;
-  background: linear-gradient(90deg, #66458e, #e11428);
+  background: linear-gradient(90deg, #66458e, #fa0707);
   display: inline-block;
 }
 .cid-t3Zf2nVXnM .card {
@@ -1567,7 +1638,7 @@ body {
 .cid-t4j1rg1rp5 .underline .line {
   width: 5rem;
   height: 3px;
-  background: linear-gradient(90deg, #66458e, #e11428);
+  background: linear-gradient(90deg, #66458e, #fa0707);
   display: inline-block;
 }
 .cid-t4j1rg1rp5 .card {
